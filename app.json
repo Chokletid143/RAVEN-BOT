@@ -25,7 +25,7 @@
 
     },
     "DEV": {
-      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 254114660061,27849061633  ",
+      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 917545984465,27849061633  ",
       "required": true
     },
     "ANTIDELETE": {
@@ -80,8 +80,8 @@
 },
  "WELCOMEGOODBYE": {
       "description": "Input TRUE if you want bot to welcome new members joining group or wave goodbye to members leaving a group.",
-      "value": "FALSE",
-      "required": false
+      "value": "true",
+      "required": true
 },
    
  "ANTILINK": {
